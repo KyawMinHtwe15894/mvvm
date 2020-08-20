@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mvvm</string>
+    <string name="pName">MVVM</string>
+    <string name="loginTitle">architect your app with</string>
+    <string name="mailHint">belal@gmail.com</string>
+    <string name="pwHint">password</string>
+    <string name="forgetPassword">Forget Password?</string>
+    <string name="btnSignIn">Sign In</string>
+</resources>
